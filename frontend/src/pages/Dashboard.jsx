@@ -115,7 +115,11 @@ function Dashboard() {
         <div className="flex justify-between items-center gap-8 px-4">
           <div className="flex flex-col justify-center">
             <h1 className="text-3xl font-outfit font-bold text-secondary typewriter">
+<<<<<<< HEAD
               Welcome👋 {loggedInUser}
+=======
+              Welcome,Taresh 👋 {loggedInUser}
+>>>>>>> fd66ed9698273e00c1f2f6783e513f4b5c17fbaf
             </h1>
             <p className="text-[#023074cd]">{currentDate}</p>
           </div>
